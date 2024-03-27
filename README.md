@@ -1,6 +1,6 @@
 # SQL-REALESTATE
 
-# to view whole data
+# To view whole data
 select * from realestate;
 
 # Count of Properties in Each City
